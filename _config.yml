@@ -1,7 +1,6 @@
-  
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+lang: de
+description: diese schöne Domain steht zum Verkauf
+theme: jekyll-theme-slate
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
-
+github:
+  is_project_page: false
